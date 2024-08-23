@@ -4,8 +4,8 @@ Repository for Scientific Reports submission #
 
 1. The base CNN structure was adapted from the following publication:
 DOI: 10.1038/s41467-019-12898-9
+  Rapid identification of pathogenic bacteria using Raman spectroscopy and deep learning
 
-Rapid identification of pathogenic bacteria using Raman spectroscopy and deep learning
 2. The Autoencoder structure was adapted from the following tutorial:
 https://machinelearningmastery.com/autoencoder-for-classification/
   Autoencoder Feature Extraction for Classification
